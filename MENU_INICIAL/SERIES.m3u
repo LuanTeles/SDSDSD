@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/OBIWANKENOBI.png" group-title="FANTASIA", Obiwan Kenobi
+https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/SERIES/OBIWAN_KENOBI.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/1contra-todos.png" group-title="ACAO", 1 Contra Todos
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/SERIES/1.CONTRA.TODOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/24horas.png" group-title="ACAO", 24 horas
